@@ -4,3 +4,4 @@ para ambos casos.
 Falta crear funciones para manipular las tablas de contigencias como un array y poder calcular el estadistico.¿o¿
 oho.
 PRueba
+PROBANDO PROBANDO
